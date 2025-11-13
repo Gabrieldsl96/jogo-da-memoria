@@ -113,7 +113,7 @@ const HomePage = () => {
             <div className="flex flex-col sm:flex-row w-full">
                 <div className="flex-1 flex flex-col items-center justify-center">
                     <a href="" />
-                    <img src={"/images/devmemory_logo.png"} width={200} alt="" />
+                    <img src={"/images/jogo-da-memoria.png"} width={200} alt="" className="mt-0 sm:-mt-10" />
                     <div className="w-full">
                         <InfoItem label="Tempo" value={formatTimeElapsed(timeElapsed)} />
                         <InfoItem label="Movimentos" value={moveCount.toString()} />
