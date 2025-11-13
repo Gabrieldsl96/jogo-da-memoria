@@ -2,6 +2,8 @@
 
 Uma aplicação web moderna de jogo da memória construída com Next.js, React e TypeScript. Este projeto oferece uma experiência interativa e divertida para testar sua memória, com contador de tempo, movimentos e interface responsiva.
 
+🔗 **[Acesse o site aqui](https://jogo-da-memoria-blond.vercel.app/)**
+
 ## ✨ Funcionalidades
 
 - 🎮 Jogo da memória interativo com cartas
